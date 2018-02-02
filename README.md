@@ -1,6 +1,7 @@
 # bnuzforexam pyhton脚本成绩更新提示
 期末的时候等成绩是不是很痛苦？这个python脚本来解放你。
 
+## python版本：2.7
 ## 第三方库：requests，BeautifulSoup
 
 ## 原理：
